@@ -9,7 +9,7 @@ _✨ Ampliando mis conocimientos en CSS_
 
 
 
-<p align="center"><a href="https://ibb.co/WgtGHdw"><img src="https://i.ibb.co/RzyYgMm/Sin-t-tulo-1.jpg" alt="Sin-t-tulo-1" border="0"></a>></p>
+<p align="center"><a href="https://ibb.co/WgtGHdw"><img src="https://i.ibb.co/RzyYgMm/Sin-t-tulo-1.jpg" alt="Sin-t-tulo-1" border="0"></a></p>
 
 <!--
 **tanimikyu/tanimikyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

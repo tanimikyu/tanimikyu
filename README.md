@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=392E01&size=26&lines=%C2%A1Hola!+Soy+Tania+%F0%9F%90%AD✨)](https://git.io/typing-svg)
 
 Front-end Developer chilena, dando sus primeros pasos en el mundo de la tecnología. 
-Amante de las artes, ilustradora autodidacta con conocimientos en Arquitectura y Diseño. En búsqueda de nuevos conocimientos, abierta a nuevos conocimientos y proyectos.
+Amante de las artes, ilustradora autodidacta con conocimientos en Arquitectura y Diseño. En búsqueda de nuevos conocimientos, abierta a nuevos desafios y proyectos.
 
 _🌱 Ampliando mis conocimientos en JS y React_
 

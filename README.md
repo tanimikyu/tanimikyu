@@ -3,11 +3,11 @@
 Front-end Developer chilena, dando sus primeros pasos en el mundo de la tecnología. 
 Amante de las artes, ilustradora autodidacta con conocimientos en Arquitectura y Diseño. En búsqueda de nuevos conocimientos, abierta a nuevos desafios y proyectos.
 
+_ 😄 She/her
+
 _🌱 Ampliando mis conocimientos en JS y React_
 
 _✨ Ampliando mis conocimientos en CSS_
-
-
 
 <p align="center"><a href="https://ibb.co/WgtGHdw"><img src="https://i.ibb.co/RzyYgMm/Sin-t-tulo-1.jpg" alt="Sin-t-tulo-1" border="0"></a></p>
 

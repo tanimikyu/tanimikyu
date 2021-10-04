@@ -6,7 +6,7 @@ Amante de las artes, ilustradora autodidacta con conocimientos en Arquitectura y
 _🌸 She/her_
 
 
-<p align="center"><a href="https://ibb.co/WgtGHdw"><img src="https://i.ibb.co/TrGm91f/me.png" alt="10px" border="0"></a></p>
+<p align="center"><a href="https://ibb.co/WgtGHdw"><img src="https://i.ibb.co/KqdJQrq/me.png" alt="10px" border="0"></a></p>
 
 
 <!--

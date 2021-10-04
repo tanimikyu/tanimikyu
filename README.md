@@ -9,7 +9,7 @@ _🌱 Ampliando mis conocimientos en JS y React_
 
 _✨ Ampliando mis conocimientos en CSS y diseño_
 
-<p align="center"><a href="https://ibb.co/WgtGHdw"><img src="https://i.ibb.co/RzyYgMm/Sin-t-tulo-1.jpg" alt="Sin-t-tulo-1" border="0"></a></p>
+<p align="center"><a href="https://ibb.co/WgtGHdw"><img src="https://i.ibb.co/TrGm91f/me.png" alt="Sin-t-tulo-1" border="0"></a></p>
 
 
 <!--

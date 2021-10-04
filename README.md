@@ -5,9 +5,6 @@ Amante de las artes, ilustradora autodidacta con conocimientos en Arquitectura y
 
 _🌸 She/her_
 
-_🌱 Ampliando mis conocimientos en JS y React_
-
-_✨ Ampliando mis conocimientos en CSS y diseño_
 
 <p align="center"><a href="https://ibb.co/WgtGHdw"><img src="https://i.ibb.co/TrGm91f/me.png" alt="10px" border="0"></a></p>
 
